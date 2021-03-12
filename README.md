@@ -7,9 +7,9 @@ This is a Go port of [Centrify AWS CLI Utility](https://github.com/centrify/cent
 Clone repository and build it
 
 ```sh
-git clone https://github.com/marcozj/centrify-awstool
-cd centrify-awstool
-go build centrifyawstool.go
+$ git clone https://github.com/marcozj/centrify-awstool
+$ cd centrify-awstool
+$ go build centrifyawstool.go
 ```
 
 ## Use Utility
