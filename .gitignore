@@ -1,2 +1,7 @@
-
+# local files
 .DS_Store
+/dist
+
+# vscode
+.vscode/
+__debug_bin
